@@ -1,0 +1,15 @@
+C:\C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.exe
+C:\C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.deps.json
+C:\C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.runtimeconfig.json
+C:\C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.dll
+C:\C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.pdb
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.csproj.AssemblyReference.cache
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.AssemblyInfoInputs.cache
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.AssemblyInfo.cs
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.csproj.CoreCompileInputs.cache
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.dll
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\refint\Sem-4.dll
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.pdb
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.genruntimeconfig.cache
+C:\C#\Seminars\Sem-4\obj\Debug\net7.0\ref\Sem-4.dll
