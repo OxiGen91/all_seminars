@@ -1,0 +1,15 @@
+C:\C#\Seminars\Sem-3\bin\Debug\net7.0\Sem-3.exe
+C:\C#\Seminars\Sem-3\bin\Debug\net7.0\Sem-3.deps.json
+C:\C#\Seminars\Sem-3\bin\Debug\net7.0\Sem-3.runtimeconfig.json
+C:\C#\Seminars\Sem-3\bin\Debug\net7.0\Sem-3.dll
+C:\C#\Seminars\Sem-3\bin\Debug\net7.0\Sem-3.pdb
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.csproj.AssemblyReference.cache
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.AssemblyInfoInputs.cache
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.AssemblyInfo.cs
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.csproj.CoreCompileInputs.cache
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.dll
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\refint\Sem-3.dll
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.pdb
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\Sem-3.genruntimeconfig.cache
+C:\C#\Seminars\Sem-3\obj\Debug\net7.0\ref\Sem-3.dll
